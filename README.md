@@ -16,6 +16,7 @@ Eu sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, atualmen
 Aqui estão alguns projetos nos quais trabalhei:
 
 1. **[INVITE](https://github.com/viniciusfelixmatos/invite)**
+
    - Invite é uma aplicação web para criar e gerenciar eventos e convites, permitindo envio de convites e acompanhamento de confirmações em tempo real.
 
    
@@ -28,5 +29,5 @@ Aqui estão alguns projetos nos quais trabalhei:
 ## Contato
 
 - **Email:** viniciusmatosfelix2022@gmail.com
-- **LinkedIn:** (https://www.linkedin.com/in/vinicius-matos-275884267/)
-- **GitHub:** (https://github.com/viniciusfelixmatos)
+- **LinkedIn:** https://www.linkedin.com/in/vinicius-matos-275884267/
+- **GitHub:** https://github.com/viniciusfelixmatos
