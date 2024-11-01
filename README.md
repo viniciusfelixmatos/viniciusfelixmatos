@@ -21,7 +21,7 @@ Aqui estão alguns projetos nos quais trabalhei:
    
 2. **[SPHERE](https://github.com/viniciusfelixmatos/Sphere)**
 
-   - SPHERE é uma rede social que permite que os usuários criem postagens, comentem, curtam e sigam uns aos outros. O projeto está em constante desenvolvimento, com novas funcionalidades sendo adicionadas, como um componente para pesquisas de posts, notificações e um chat semelhante a outras redes sociais.
+   - SPHERE é uma rede social que permite que os usuários criem postagens, comentem, curtam e sigam uns aos outros. O projeto está em constante desenvolvimento, com novas funcionalidades sendo adicionadas.
 
 ## Experiência
 
