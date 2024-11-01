@@ -2,14 +2,14 @@
 
 ## Sobre Mim
 
-Eu sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, atualmente no modo semi-presencial, mas buscando uma transição para o EAD. Tenho experiência em desenvolvimento web, com um foco especial em React e PHP. Além disso, tenho sólidos conhecimentos em JavaScript, incluindo manipulação do DOM, gestão de eventos e integração com APIs.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, atualmente no modo semi-presencial, mas buscando uma transição para o EAD. Tenho experiência em desenvolvimento web, com foco especial em React e PHP. Além disso, possuo sólidos conhecimentos em JavaScript, incluindo manipulação do DOM, gestão de eventos e integração com APIs.
 
 ## Habilidades
 
 - **Linguagens de Programação:** PHP, JavaScript, HTML, CSS
-- **Frameworks/Bibliotecas:** React, React Router DOM
+- **Frameworks/Bibliotecas:** React, React Router DOM, Angular
 - **Banco de Dados:** MySQL
-- **Outras Tecnologias:** JSON, Git, GitHub
+- **Outras Tecnologias:** Node.js, Express, TypeScript, JSON, Git, GitHub
 
 ## Projetos
 
@@ -17,9 +17,12 @@ Aqui estão alguns projetos nos quais trabalhei:
 
 1. **[INVITE](https://github.com/viniciusfelixmatos/invite)**
 
-   - Invite é uma aplicação web para criar e gerenciar eventos e convites, permitindo envio de convites e acompanhamento de confirmações em tempo real.
-
+   - Invite é uma aplicação web para criar e gerenciar eventos e convites, permitindo o envio de convites e acompanhamento de confirmações em tempo real.
    
+2. **[SPHERE](https://github.com/viniciusfelixmatos/Sphere)**
+
+   - SPHERE é uma rede social que permite que os usuários criem postagens, comentem, curtam e sigam uns aos outros. O projeto está em constante desenvolvimento, com novas funcionalidades sendo adicionadas, como um componente para pesquisas de posts, notificações e um chat semelhante a outras redes sociais.
+
 ## Experiência
 
 - **Desenvolvimento Web:**
@@ -29,5 +32,5 @@ Aqui estão alguns projetos nos quais trabalhei:
 ## Contato
 
 - **Email:** viniciusmatosfelix2022@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/vinicius-matos-275884267/
-- **GitHub:** https://github.com/viniciusfelixmatos
+- **LinkedIn:** [Vinicius Matos](https://www.linkedin.com/in/vinicius-matos-275884267/)
+- **GitHub:** [viniciusfelixmatos](https://github.com/viniciusfelixmatos)
