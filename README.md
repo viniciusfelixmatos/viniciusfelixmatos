@@ -26,8 +26,11 @@ Aqui estão alguns projetos nos quais trabalhei:
 ## Experiência
 
 - **Desenvolvimento Web:**
-  - Desenvolvimento de aplicações web utilizando HTML, CSS, JavaScript e React.
+  - Desenvolvimento de aplicações web utilizando HTML, CSS, JavaScript, React e Angular.
   - Integração de sistemas com bancos de dados MySQL usando PHP.
+  - Criação de APIs e desenvolvimento de aplicações server-side com Node.js e Express.
+  - Experiência com TypeScript para desenvolvimento de aplicações robustas e escaláveis.
+
 
 ## Contato
 
