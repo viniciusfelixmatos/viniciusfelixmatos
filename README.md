@@ -6,10 +6,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, atualmente 
 
 ## Habilidades
 
-- **Linguagens de Programação:** PHP, JavaScript, HTML, CSS
-- **Frameworks/Bibliotecas:** React, React Router DOM, Angular
+- **Linguagens de Programação:** PHP, JavaScript, Typescript, Java
+- **Frameworks/Bibliotecas:** React, React Router DOM, Angular, Vue.js
 - **Banco de Dados:** MySQL
-- **Outras Tecnologias:** Node.js, Express, TypeScript, JSON, Git, GitHub
+- **Outras Tecnologias:** Node.js, Express, JSON, Git, GitHub
 
 ## Projetos
 
