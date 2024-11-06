@@ -2,37 +2,43 @@
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, atualmente no modo semi-presencial, mas buscando uma transição para o EAD. Tenho experiência em desenvolvimento web, com foco especial em React e PHP. Além disso, possuo sólidos conhecimentos em JavaScript, incluindo manipulação do DOM, gestão de eventos e integração com APIs.
+Sou estudante de Análise e Desenvolvimento de Sistemas na Estácio, cursando no modo EAD. Ao longo dos últimos tempos, tenho me aprofundado no desenvolvimento web, com especialização em frameworks modernos como Angular e React. Também possuo sólidos conhecimentos em TypeScript e PHP, além de experiência em manipulação do DOM, integração com APIs, e manipulação de banco de dados MySQL.
 
-## Habilidades
+---
 
-- **Linguagens de Programação:** PHP, JavaScript, Typescript, Java
-- **Frameworks/Bibliotecas:** React, React Router DOM, Angular, Vue.js
+## 🚀 Habilidades Técnicas
+
+- **Linguagens de Programação:** PHP, JavaScript, TypeScript, Java
+- **Frameworks/Bibliotecas:** Angular, React, React Router DOM, Vue.js
+- **Backend e Servidores:** Node.js, Express
 - **Banco de Dados:** MySQL
-- **Outras Tecnologias:** Node.js, Express, JSON, Git, GitHub
+- **Ferramentas e Outras Tecnologias:** JSON, Git, GitHub
 
-## Projetos
+---
 
-Aqui estão alguns projetos nos quais trabalhei:
+## 💼 Projetos
+
+Aqui estão alguns dos meus principais projetos:
 
 1. **[INVITE](https://github.com/viniciusfelixmatos/invite)**
-
    - Invite é uma aplicação web para criar e gerenciar eventos e convites, permitindo o envio de convites e acompanhamento de confirmações em tempo real.
-   
+
 2. **[SPHERE](https://github.com/viniciusfelixmatos/Sphere)**
+   - SPHERE é uma rede social que permite aos usuários criar postagens, comentar, curtir e seguir uns aos outros. O projeto está em constante desenvolvimento, com novas funcionalidades sendo adicionadas.
 
-   - SPHERE é uma rede social que permite que os usuários criem postagens, comentem, curtam e sigam uns aos outros. O projeto está em constante desenvolvimento, com novas funcionalidades sendo adicionadas.
+---
 
-## Experiência
+## 💡 Experiência Profissional
 
 - **Desenvolvimento Web:**
-  - Desenvolvimento de aplicações web utilizando HTML, CSS, JavaScript, React e Angular.
+  - Criação de aplicações com Angular e React, utilizando TypeScript para projetos robustos e escaláveis.
+  - Desenvolvimento de APIs e aplicações server-side com Node.js e Express.
   - Integração de sistemas com bancos de dados MySQL usando PHP.
-  - Criação de APIs e desenvolvimento de aplicações server-side com Node.js e Express.
-  - Experiência com TypeScript para desenvolvimento de aplicações robustas e escaláveis.
+  - Familiaridade com JSON e manipulação de dados para integração com diversas APIs.
 
+---
 
-## Contato
+## 📫 Contato
 
 - **Email:** viniciusmatosfelix2022@gmail.com
 - **LinkedIn:** [Vinicius Matos](https://www.linkedin.com/in/vinicius-matos-275884267/)
