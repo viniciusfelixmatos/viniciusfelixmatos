@@ -28,7 +28,8 @@ Busco constantemente novos desafios, sempre aprimorando minhas habilidades na cr
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 **Banco de Dados:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -44,14 +45,15 @@ Busco constantemente novos desafios, sempre aprimorando minhas habilidades na cr
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|--------------|
-| [**INVITE**](https://github.com/viniciusfelixmatos/invite) | Plataforma para criar e gerenciar eventos e convites, com confirmação em tempo real. | React, PHP, JSON, MySQL |
+| [**Invite Redux**](https://github.com/viniciusfelixmatos/invite-redux) | Uma aplicação web para criar e gerenciar eventos, agora com gerenciamento de estado otimizado usando Redux, além de melhorias na performance e interface. | React, Redux, PHP, JSON, MySQL |
 | [**SPHERE**](https://github.com/viniciusfelixmatos/Sphere) | Rede social onde os usuários podem criar postagens, comentar, curtir e seguir uns aos outros. | React, Node.js, Express, MySQL |
+| [**História Militar**](https://github.com/viniciusfelixmatos/historia-militar) | Aplicação desenvolvida com Next.js que funciona como uma enciclopédia online focada em temas militares. Permite explorar eventos históricos, biografias de líderes militares, estratégias de batalhas e muito mais, com uma interface intuitiva e responsiva. | Next.js, TypeScript, React, JSON |
 
 ---
 
 ## 💼 Experiência e Atividades
 
-- 🔧 Criação de aplicações web com **React**, **Angular** e **Vue.js**.
+- 🔧 Criação de aplicações web com **React**, **Angular**, **Vue.js** e **Next.js**.
 - 🔗 Desenvolvimento de APIs RESTful utilizando **Node.js**, **Express** e **PHP**.
 - 🗄️ Integração de sistemas com **MySQL** e manipulação de dados em **JSON**.
 - 🧠 Experiência em desenvolvimento fullstack, desde a prototipagem até o deploy.
@@ -78,4 +80,3 @@ Busco constantemente novos desafios, sempre aprimorando minhas habilidades na cr
 ---
 
 <p align="center">✨ Sempre aprendendo e buscando evoluir ✨</p>
-
