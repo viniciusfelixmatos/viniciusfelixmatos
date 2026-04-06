@@ -45,9 +45,9 @@ Busco constantemente novos desafios, sempre aprimorando minhas habilidades na cr
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|--------------|
-| [**Invite Redux**](https://github.com/viniciusfelixmatos/invite-redux) | Uma aplicação web para criar e gerenciar eventos, agora com gerenciamento de estado otimizado usando Redux, além de melhorias na performance e interface. | React, Redux, PHP, JSON, MySQL |
-| [**SPHERE**](https://github.com/viniciusfelixmatos/Sphere) | Rede social onde os usuários podem criar postagens, comentar, curtir e seguir uns aos outros. | React, Node.js, Express, MySQL |
-| [**História Militar**](https://github.com/viniciusfelixmatos/historia-militar) | Aplicação desenvolvida com Next.js que funciona como uma enciclopédia online focada em temas militares. Permite explorar eventos históricos, biografias de líderes militares, estratégias de batalhas e muito mais, com uma interface intuitiva e responsiva. | Next.js, TypeScript, React, JSON |
+| [**Invite Redux**](https://github.com/viniciusfelixmatos/invite-redux) | Aplicação web para criação e gerenciamento de eventos, com gerenciamento de estado utilizando Redux, melhorias de performance e interface moderna e responsiva. | React, Redux, PHP, JSON, MySQL |
+| [**Military History Redux**](https://github.com/viniciusfelixmatos/military-history-redux) | Versão mais recente do projeto de enciclopédia militar, agora desenvolvida com Laravel, focada em arquitetura organizada, backend robusto e estrutura escalável para conteúdo. | Laravel, PHP, AWS |
+| [**Formulário com Validação**](https://github.com/viniciusfelixmatos/desafio-frontend-formulario-validacao) | Projeto frontend focado em validação de formulário, boas práticas de UI/UX e componentização utilizando React e Tailwind. | React, TailwindCSS |
 
 ---
 
@@ -63,10 +63,8 @@ Busco constantemente novos desafios, sempre aprimorando minhas habilidades na cr
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciusfelixmatos&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfelixmatos&layout=compact&theme=radical" alt="Top Langs" />
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=viniciusfelixmatos&show_icons=true&theme=radical"/>
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=viniciusfelixmatos&layout=compact&theme=radical"/>
 </p>
 
 ---
